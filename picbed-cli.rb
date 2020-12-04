@@ -3,8 +3,8 @@
 class PicbedCli < Formula
   desc "picbed client cli"
   homepage "https://github.com/staugur/picbed-cli"
-  url "https://static.saintic.com/download/picbed-cli/picbed-cli.0.4.1-darwin-amd64.tar.gz"
-  sha256 "3ed3d939068286ed6b267476900d07e77d646c33f37b53b7bc2b581bba355d71"
+  url "https://static.saintic.com/download/picbed-cli/picbed-cli.0.4.2-darwin-amd64.tar.gz"
+  sha256 "c33ae9aae32273e9ea681eff904bfbae912753e7afa0175ad69765fe17b002ff"
 
   # depends_on "cmake" => :build
 
