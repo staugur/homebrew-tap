@@ -3,8 +3,8 @@
 class Sapicli < Formula
   desc "sapic client cli"
   homepage "https://github.com/sapicd/cli"
-  url "https://static.saintic.com/download/sapicli/sapicli.0.5.2-darwin-amd64.tar.gz"
-  sha256 "c2db48e3cfde6637840c4df28689d127acc4f0919e2ede50fef0d8879c672ba4"
+  url "https://github.com/sapicd/cli/releases/download/v0.5.3/sapicli.0.5.3-darwin-amd64.tar.gz"
+  sha256 "210406d4015094232fe0254105cd3f47b108a4db0a71798798512090b493a99e"
 
   # depends_on "cmake" => :build
 
